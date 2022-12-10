@@ -1,0 +1,6 @@
+[submodule "sub-backend"]
+	path = sub-backend
+	url = https://github.com/apophisnow/sub-backend.git
+[submodule "sub-frontend"]
+	path = sub-frontend
+	url = https://github.com/apophisnow/sub-frontend.git
